@@ -1,0 +1,5 @@
+server:
+  port: 4040
+spring:
+  application:
+    name: Reactive Api
